@@ -1,0 +1,7 @@
+const tantargy = [
+ { rov:"IKT2", nev:"IKT projekmtunka II.", ora:93 },
+ { rov:"AAF", nev:"Asztali alkalmazások fejlesztése", ora:124 },
+ { rov:"SZFT", nev:"Szoftvertesztelés", ora:62 },
+ { rov:"WEB", nev:"Webprogramozás", ora: 93 },
+ { rov:"SZAN", nev:"Szakmai angol", ora: 62 }
+];

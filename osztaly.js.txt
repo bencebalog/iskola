@@ -1,0 +1,8 @@
+const osztaly = [
+ { nev:"12/A", szak:"Infomatika" },
+ { nev:"12/B", szak:"Mechatronika" },
+ { nev:"12/C", szak:"Elektronika" },
+ { nev:"12/E", szak:"Művészet" },
+ { nev:"12/F", szak:"Kreatív" },
+ { nev:"12/G", szak:"Gépészet" }
+]
