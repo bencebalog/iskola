@@ -1,0 +1,8 @@
+const tanar = [
+ { rov:"BJ", nev:"Bársony József" },
+ { rov:"CZI", nev:"Czikkely Imre" },
+ { rov:"KAM", nev:"Kátay Magdolna" },
+ { rov:"MG", nev:"Muresan Gábor Ferenc" },
+ { rov:"RR", nev:"Richter Rita" },
+ { rov:"TB", nev:"Tornai Bernadett" }
+];
